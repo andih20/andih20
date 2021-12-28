@@ -3,6 +3,8 @@ public class ads {
         System.out.println("aaa");
 
         System.out.println("hello");
+
+        System.out.println("shalicladehhhhhh");
     }
 
 }
